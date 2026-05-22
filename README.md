@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thdxg/thdxg/main/me.png" />
+<img src="https://raw.githubusercontent.com/thdxg/thdxg/main/me.png" width="200" />
 
 # Ethan Lee
 
