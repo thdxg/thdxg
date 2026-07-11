@@ -1,5 +1,8 @@
-founding engineer of huddle surety\
-studying distributed systems at carnegie mellon\
-terminal enthusiast
+founding engineer of [Huddle](https://huddlesurety.co)\
+master's student in distributed systems at CMU\
+terminal enthusiast\
+contributing to tools i love:
+- [labstack/echo](https://github.com/labstack/echo)
+- [vercel/next.js](https://github.com/vercel/next.js)
+- [kubernetes/website](https://github.com/kubernetes/website)
 
-[Website](https://taehoonlee.dev) · [LinkedIn](https://www.linkedin.com/in/ethantlee) · [Buy Me a Coffee](https://www.buymeacoffee.com/thdxg)
