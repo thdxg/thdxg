@@ -1,6 +1,6 @@
-founding engineer of [Huddle](https://huddlesurety.co)
+founding engineer of [Huddle](https://huddlesurety.com)
 
-master's student in distributed systems at CMU
+master's student in software engineering at CMU
 
 terminal enthusiast
 
