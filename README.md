@@ -1,12 +1,12 @@
-software engineer @ [Huddle](https://huddlesurety.com)
+_terminal lover, student, oss maintainer \
+building things in web and cloud_
 
-master of software engineering @ CMU
+**things i do**
+- swe intern @ tesla
+- master of software engineering @ cmu
+- contributing to kubernetes, next.js, echo
 
-terminal enthusiast
-
-contributing to tools i love:
-
-- [labstack/echo](https://github.com/labstack/echo)
-- [vercel/next.js](https://github.com/vercel/next.js)
-- [kubernetes/website](https://github.com/kubernetes/website)
-
+**things i've done**
+- founding swe @ huddle surety (2025 - 2026)
+- swe intern @ ukg (2025)
+- swe intern @ estreamly (2024)
