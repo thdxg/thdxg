@@ -1,4 +1,4 @@
-_terminal lover, student, oss maintainer \
+_terminal lover, student, oss \
 building things in web and cloud_
 
 **things i do**
